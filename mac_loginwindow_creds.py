@@ -1,5 +1,5 @@
 """
-this plugin is based on the research of David Maynor  (see
+this plugin is based on the research of Jacob Appelbaum and Bill Paul  (see
 https://seclists.org/bugtraq/2008/Feb/442).
 """
 
