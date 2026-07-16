@@ -1,0 +1,14 @@
+
+*.raw
+
+
+*.isf.json
+
+
+__pycache__/
+*.pyc
+
+
+blog.txt
+s4nct1m0ny.html
+nul
